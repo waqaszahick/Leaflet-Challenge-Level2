@@ -1,5 +1,5 @@
-# Leaflet-Part2
-Leaf Challenge: Visualizing Data with Leaflet (Part-II)
+# Leaflet-Challenge
+Level 2: More Data
 
 This is my overall 16th, and first assignment on visualization data with "leaflet". Regarding the background of this assignment, it is about the United States Geological Survey (USGS). The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
 I was required to build a new set of tools that will allow user(s) to visualize earthquake data. The USGS collect a massive amount of data from all over the world each day. My assignment was to enable that data to be visualized in order to allow them (The USGS) to better educate the public and other government organizations, and hopefully secure more funding on issues facing our planet.
